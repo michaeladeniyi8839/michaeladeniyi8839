@@ -1,7 +1,7 @@
 ### Michael Adeniyi
 
 Computer Information Systems student at Georgia State University (Data Analytics concentration,
-graduating December 2027). I build software by directing AI coding agents, and I build the
+graduating May 2028). I build software by directing AI coding agents, and I build the
 guardrails that make their output trustworthy: written standards, automated verification
 gates, independent review, and tests.
 
